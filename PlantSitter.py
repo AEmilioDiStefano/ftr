@@ -2,7 +2,7 @@
 # simultaneously - one for air temperature control and another for 
 # soil humidity control. 
 #
-#------------------------------------------------------------------
+#------------------------------------------------------------------ 
 # Change History
 #------------------------------------------------------------------
 # Version   |   Description
